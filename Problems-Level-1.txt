@@ -1,4 +1,4 @@
-=======================			A list of problems for beginners to comptetitive programming 	=============
+=======================			A list of problems for beginners in comptetitive programming 	=============
 
 ==>		Below are problem codes, to checkout any of these problems do,
 			www.spoj.com/problems/<ProblemCode>
