@@ -27,3 +27,7 @@
 17. CANDY3
 18. SAMER08F
 19. HOTELS
+20. GIRLSNBS
+21. CRDS
+22. NY10A (challenge!.. try to do it without using if statements)
+23. WILLITST
