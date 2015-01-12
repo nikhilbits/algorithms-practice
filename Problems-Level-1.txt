@@ -1,0 +1,35 @@
+Problems-Level-1.txt
+
+:Author: ankitsultana
+:Email: ankitsultana@Ankits-Macbook-Pro.local
+:Date: 2015-01-12 17:45
+
+=======================			A list of problems for beginners to comptetitive programming 	=============
+
+==>		Below are problem codes, to checkout any of these problems do,
+			www.spoj.com/problems/<ProblemCode>
+
+==>		Eg.
+			for ADDREV do
+			www.spoj.com/problems/ADDREV
+
+==>SPOJ	(Problem Codes)
+1.  ADDREV
+2.  FCTRL
+3.  CANDY
+4.  ATOMS
+5.  FASHION
+6.  NSTEPS
+7.  EIGHTS
+8.  LASTDIG
+9.  PRIME1
+10. ARMY
+11. STAMPS
+12. AE00
+13. OFFSIDE
+14. EASYPROB
+15. BEENUMS
+16. JAVAC
+17. CANDY3
+18. SAMER08F
+19. HOTELS
