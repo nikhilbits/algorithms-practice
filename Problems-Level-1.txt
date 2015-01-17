@@ -32,3 +32,4 @@
 22. NY10A (challenge!.. try to do it without using if statements)
 23. WILLITST
 24. MARBLES
+25. INTEST (If you want to check how fast your i/o methods are)
