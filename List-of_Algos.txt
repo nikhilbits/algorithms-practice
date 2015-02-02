@@ -1,0 +1,19 @@
+««««««««««««««««««««««««««««««««««««««««««			Algorithms, DS and Techniques for Competitive Programming 			»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+
+1. Asymptotic Notation
+	a. Resource: https://www.youtube.com/watch?v=iOq5kSKqeR4
+	
+2. Modular Exponentiation
+	a. Exponentiation by squaring
+	b. Right to Left binary method
+	c. Memory effecient method
+	d. Resource: http://en.wikipedia.org/wiki/Modular_exponentiation
+
+3. Sieve of Eratosthenes
+	a. Resource: http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+
+4. Merge Sort
+	a. Both Top Down and Bottom Up
+	b. Resource: http://en.wikipedia.org/wiki/Merge_sort
+
+5. 
