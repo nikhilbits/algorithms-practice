@@ -1,7 +1,7 @@
 #PracticePath
 Contains list of resources and problems for beginners 
 
-##Level 1 Problems:
+##Level 1 Problems (No specific algorithms required):
 
 1.  [ADDREV](http://spoj.com/problems/ADDREV)
 2.  [FCTRL](http://spoj.com/problems/FCTRL)
@@ -11,7 +11,7 @@ Contains list of resources and problems for beginners
 6.  [NSTEPS](http://spoj.com/problems/NSTEPS)
 7.  [EIGHTS](http://spoj.com/problems/EIGHTS)
 8.  [LASTDIG](http://spoj.com/problems/LASTDIG)
-9.  [PRIME1](http://spoj.com/problems/PRIME1)
+9.  [PRIME1](http://spoj.com/problems/PRIME1) (**Read** [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes))
 10. [ARMY](http://spoj.com/problems/ARMY)
 11. [STAMPS](http://spoj.com/problems/STAMPS)
 12. [AE00](http://spoj.com/problems/AE00)
@@ -28,3 +28,4 @@ Contains list of resources and problems for beginners
 23. [WILLITST](http://spoj.com/problems/WILLITST)
 24. [MARBLES](http://spoj.com/problems/MARBLES)
 25. [INTEST](http://spoj.com/problems/INTEST)
+
