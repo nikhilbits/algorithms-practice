@@ -1,7 +1,7 @@
 #PracticePath
 Contains list of resources and problems for beginners 
 
-Level 1 Problems:
+##Level 1 Problems:
 
 1.  [ADDREV](http://spoj.com/problems/ADDREV)
 2.  [FCTRL](http://spoj.com/problems/FCTRL)
