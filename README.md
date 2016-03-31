@@ -1,4 +1,4 @@
-### Algorithms/DS relevant for ICPC
+## Algorithms/DS relevant for ICPC
 
 #### Graphs
 
@@ -17,3 +17,31 @@
 13. Centroid Decomposition
 14. Flows (Dinic/Edmonds Karp)
 15. Matching (Hungarian Algorithm)
+16. 2-SAT
+
+#### Data Structures
+
+1. Segment Tree
+2. 2D Segment Tree
+3. Binary Indexed Tree
+4. STL (set/priority_queue/map/stack/queue/list)
+
+#### Strings
+
+1. Hashing
+2. Trie
+3. KMP
+4. Aho Corasick
+5. Suffix Array/Tree
+
+#### Number Theory/Math
+
+1. ETF
+2. Mobius Inversion
+3. FFT
+4. Complex Library (C++)
+
+#### Matrix
+
+1. Matrix Exponentiation
+2. Gaussian Elimination
