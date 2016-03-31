@@ -25,6 +25,7 @@
 2. 2D Segment Tree
 3. Binary Indexed Tree
 4. STL (set/priority_queue/map/stack/queue/list)
+5. Binary Search Tree
 
 #### Strings
 
@@ -39,9 +40,38 @@
 1. ETF
 2. Mobius Inversion
 3. FFT
-4. Complex Library (C++)
+4. Chinese Remainder Theorem
+5. Complex Library (C++)
+6. Inclusion/Exclusion
+7. Extended Euclid
+8. Diophantine Equation
+9. Discrete Logarithm
 
 #### Matrix
 
 1. Matrix Exponentiation
 2. Gaussian Elimination
+
+#### Geometry
+
+1. Various forms for area of triangle (three point form, side length form etc.)
+2. If `x` lies on line segment `a -- b`
+3. If segment `a -- b` intersects with `p -- q`
+4. Point in Polygon problem
+5. Pick's Theorem
+
+#### Dynamic Programming
+
+1. Convex Hull Optimization
+2. Knuth Optimization
+3. DP with bitmasks
+
+#### Game Theory
+
+1. Nim
+2. Hackenbush
+3. Grundy Numbers
+
+#### Advanced
+
+1. Heavy Light Decomposition
