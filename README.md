@@ -46,6 +46,7 @@
 7. Extended Euclid
 8. Diophantine Equation
 9. Discrete Logarithm
+10. Modular Inverse
 
 #### Matrix
 
