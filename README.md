@@ -76,3 +76,5 @@
 #### Advanced
 
 1. Heavy Light Decomposition
+2. Persistent Data Structures
+3. Treaps
