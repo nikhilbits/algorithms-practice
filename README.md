@@ -1,5 +1,12 @@
 ## Algorithms/DS relevant for ICPC
 
+#### Basic
+
+1. Modular Exponentiation
+2. Sorting
+3. Sieve of Eratosthenes
+4. Binary Search
+
 #### Graphs
 
 1. Union Find
@@ -18,6 +25,7 @@
 14. Flows (Dinic/Edmonds Karp)
 15. Matching (Hungarian Algorithm)
 16. 2-SAT
+17. Bellman Ford
 
 #### Data Structures
 
@@ -25,8 +33,9 @@
 2. 2D Segment Tree
 3. Implicit Segment Tree
 4. Binary Indexed Tree
-5. STL (set/priority_queue/map/stack/queue/list)
+5. STL (set/priority_queue/map/stack/queue/list/deque)
 6. Binary Search Tree
+7. Sparse Table
 
 #### Strings
 
@@ -48,6 +57,7 @@
 8. Diophantine Equation
 9. Discrete Logarithm
 10. Modular Inverse
+11. Burnside's Lemma
 
 #### Matrix
 
