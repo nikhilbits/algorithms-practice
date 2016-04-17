@@ -23,9 +23,10 @@
 
 1. Segment Tree
 2. 2D Segment Tree
-3. Binary Indexed Tree
-4. STL (set/priority_queue/map/stack/queue/list)
-5. Binary Search Tree
+3. Implicit Segment Tree
+4. Binary Indexed Tree
+5. STL (set/priority_queue/map/stack/queue/list)
+6. Binary Search Tree
 
 #### Strings
 
@@ -72,6 +73,12 @@
 1. Nim
 2. Hackenbush
 3. Grundy Numbers
+
+#### Miscellaneous
+
+1. Line Sweep Algorithms
+2. Square Root Decomposition
+3. Mo's Algorithm
 
 #### Advanced
 
